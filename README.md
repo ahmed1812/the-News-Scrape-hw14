@@ -20,6 +20,6 @@ This app scrape news from NY times website. It allows users to view and write no
 
 ## News Scrapeis deployed to Heroku
 
-[Demo](http://github.com)
+[Demo](https://guarded-forest-97002.herokuapp.com/#)
 
 
